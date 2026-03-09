@@ -16,7 +16,8 @@ Repo del curso 2026 de "Recuperación de Información" (UNLu)
   
 ## Trabajos Prácticos
 ```
-El uso de Inteligencia Artificial para la resolución del trabajo práctico debe ser claramente declarado en cada entrega. Debe incluir:
+El uso de Inteligencia Artificial para la resolución del trabajo práctico debe ser claramente declarado en cada
+entrega. Debe incluir:
 
 - Herramientas y versiones utilizadas
 - Objetivos (edición, resolución, generación de ideas, código, etc.)
@@ -24,7 +25,9 @@ El uso de Inteligencia Artificial para la resolución del trabajo práctico debe
 - Cómo se verificó la validez de la respuesta
 - Cómo aportó al proceso de aprendizahe
 
-La declaración debe incluir el nombre y versión de las herramientas utilizadas en cada caso. El autor, además, debe declarar que asume la total responsabilidad por el resultado incluido en el trabajo práctico. El uso declarado será evaluado según su pertinencia y la elaboración propia del estudiante en el resultado final.
+La declaración debe incluir el nombre y versión de las herramientas utilizadas en cada caso. El autor, además,
+debe declarar que asume la total responsabilidad por el resultado incluido en el trabajo práctico. El uso
+declarado será evaluado según su pertinencia y la elaboración propia del estudiante en el resultado final.
 ```
 
 
