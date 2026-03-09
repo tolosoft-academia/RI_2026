@@ -23,7 +23,7 @@ entrega. Debe incluir:
 - Objetivos (edición, resolución, generación de ideas, código, etc.)
 - Partes resueltas con IA
 - Cómo se verificó la validez de la respuesta
-- Cómo aportó al proceso de aprendizahe
+- Cómo aportó al proceso de aprendizaje
 
 La declaración debe incluir el nombre y versión de las herramientas utilizadas en cada caso. El autor, además,
 debe declarar que asume la total responsabilidad por el resultado incluido en el trabajo práctico. El uso
