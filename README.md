@@ -16,8 +16,8 @@ Repo del curso 2026 de "Recuperación de Información" (UNLu)
   
 ## Trabajos Prácticos
 ```
-El uso de Inteligencia Artificial para la resolución del trabajo práctico debe ser claramente declarado en cada
-entrega. Debe incluir:
+El uso de Inteligencia Artificial para la resolución de los trabajos prácticos debe ser claramente declarado
+en cada entrega. Debe incluir:
 
 - Herramientas y versiones utilizadas
 - Objetivos (edición, resolución, generación de ideas, código, etc.)
