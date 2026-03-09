@@ -15,7 +15,6 @@ Repo del curso 2026 de "Recuperación de Información" (UNLu)
 - Introducción al Proc. del Lenguaje Natural (c/aplicaciones)
   
 ## Trabajos Prácticos
-- Warmup  
 - Intro. a la RI  
 - Análisis de Texto 
 - Modelos de RI  
