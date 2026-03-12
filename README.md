@@ -2,7 +2,7 @@
 Repo del curso 2026 de "Recuperación de Información" (UNLu)
 
 ## Temas y Guías de Clase
-- Introducción y Análisis de Texto  
+- Introducción y Análisis de Texto [[link](https://docs.google.com/document/d/1PIW1foAbo9meSBlRR1EhdFzW0Uj3tsajCYzivAA3Zg4/edit?tab=t.0)]
 - Modelos Clásicos de RI 
 - Evaluación de la Recuperación  
 - Modelos de Lenguaje para RI 
