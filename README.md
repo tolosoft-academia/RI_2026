@@ -29,9 +29,7 @@ La declaración debe incluir el nombre y versión de las herramientas utilizadas
 debe declarar que asume la total responsabilidad por el resultado incluido en el trabajo práctico. El uso
 declarado será evaluado según su pertinencia y la elaboración propia del estudiante en el resultado final.
 ```
-
-
-- Intro. a la RI  
+- Intro. a la RI  [[link](https://docs.google.com/document/d/1kO0EzSP6pFLOnJ4ig6SsSM_6ox-azRklfeFfTNnLVcM/edit?tab=t.0)]
 - Análisis de Texto 
 - Modelos de RI  
 - Modelos de Lenguaje 
