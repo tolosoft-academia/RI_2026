@@ -30,7 +30,7 @@ debe declarar que asume la total responsabilidad por el resultado incluido en el
 declarado será evaluado según su pertinencia y la elaboración propia del estudiante en el resultado final.
 ```
 - Intro. a la RI  [[link](https://docs.google.com/document/d/1kO0EzSP6pFLOnJ4ig6SsSM_6ox-azRklfeFfTNnLVcM/edit?tab=t.0)]
-- Análisis de Texto 
+- Análisis de Texto [[link](https://docs.google.com/document/d/1kZzeL5d8KQ3ftlMAs913eHy1gKouuO7Y7ESOSWTGwUg/edit?usp=sharing)]
 - Modelos de RI  
 - Modelos de Lenguaje 
 - Estructuras de Datos y Recuperación  
