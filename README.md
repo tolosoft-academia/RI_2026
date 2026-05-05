@@ -32,7 +32,7 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Análisis de Texto [[link](https://docs.google.com/document/d/1kZzeL5d8KQ3ftlMAs913eHy1gKouuO7Y7ESOSWTGwUg/edit?usp=sharing)]
 - Modelos de RI [[link](https://docs.google.com/document/d/1VCDWj-hQSVZ2yN0iT74bUU4oQ0Hls6XsoY_-uCwJXyM/edit?tab=t.0)] 
 - Modelos de Lenguaje [[link](https://docs.google.com/document/d/1x-VQ4HP2ghAx8aZ-HRZwoNQltFC1XCKNLrXVnqg94cM/edit?tab=t.0)]
-- Estructuras de Datos y Recuperación  
+- Estructuras de Datos y Recuperación [[link](https://docs.google.com/document/d/16YW01CBAi-E5jNJbCMzyd_uTjTqeNwp0PZkBtYa6gd4/edit?tab=t.0)] 
 - RI en la Web  
 - Presentación de Paper  
 - Proyecto Final de Curso
