@@ -10,6 +10,7 @@ Repo del curso 2026 de "Recuperación de Información" (UNLu)
 - Recuperación DAAT-TAAT - Algoritmos Top-k [[link](https://docs.google.com/document/d/1o6n9gWt-df6Q5oKdxAoTf0V_-kkcphyb2iqWHFu6QYY/edit?tab=t.0)]
 - Arquitectura de la Web + Intro a Máquinas de Búsqueda [[link](https://docs.google.com/document/d/1OKnlA7KlRDRSwhHte7QgN-cU16NpU5TzLZQkuROHPy8/edit?tab=t.0)] 
 - Representaciones densas y recuperación 
+- Representaciones ralas y recuperación 
 - Introducción al Proc. del Lenguaje Natural (c/aplicaciones)
   
 ## Trabajos Prácticos
