@@ -34,8 +34,8 @@ declarado será evaluado según su pertinencia y la elaboración propia del estu
 - Modelos de Lenguaje [[link](https://docs.google.com/document/d/1x-VQ4HP2ghAx8aZ-HRZwoNQltFC1XCKNLrXVnqg94cM/edit?tab=t.0)]
 - Estructuras de Datos y Recuperación [[link](https://docs.google.com/document/d/16YW01CBAi-E5jNJbCMzyd_uTjTqeNwp0PZkBtYa6gd4/edit?tab=t.0)] 
 - RI en la Web  [[link](https://docs.google.com/document/d/1OAex8bckncljqX9CXflNRazyoHLrsLcMgIdN5i-H4m4/edit?tab=t.0)] 
-- Presentación de Paper  
-- Proyecto Final de Curso
+- Presentación de Paper  [[link](https://docs.google.com/document/d/1XOrtdTxgDaGDznuRJt3qss54BUXFRzTvEWa-MO8RSPE/edit?tab=t.0)]
+- Proyecto Final de Curso [[link](https://docs.google.com/document/d/1fHiLsNH_FUxsLZ3kj7ved-4YpvavrQ2_xM0OfP2BjX4/edit?tab=t.0)]
   
 ## Datos de Prueba 
 - Colección Vaswani ([link](https://github.com/tolosoft-academia/RI_2025/tree/main/data)) 
